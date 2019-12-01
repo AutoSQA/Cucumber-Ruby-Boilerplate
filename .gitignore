@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+.bundle/
+bin/
+Gemfile.lock
+launch.json

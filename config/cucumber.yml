@@ -1,0 +1,8 @@
+---
+default: BROWSER=chrome -p prod
+
+#prod profiles
+prod:
+  --tags @prod
+  env=prod
+  host=https://www.google.com
